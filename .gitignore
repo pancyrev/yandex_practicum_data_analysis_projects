@@ -12,13 +12,5 @@
 /13. Выпускной проект
 
 *.csv
-/02. Data Preprocessing/credit_scoring_project_with_review_comments.ipynb
-/03. Research Data Analysis/sale_apartments_analysis_review_comments.ipynb
-/04. Statistical data analysis/mobile_tariff_analysis_review_comments.ipynb
-/05. Main Project - 1/game_raiting_project_review_comments.ipynb
-/07. Business Metrics Analysis/business_metrics_mobile_app_viewer_comments.ipynb
-/08. Business Decisions/internet_store_ab_test_review_comments.ipynb
-/09. Tell The Story With Data/restaurant_analysis_review_comments.ipynb
-/10. Main Project - 2/fonts_ab_test_project_review_comments.ipynb
 
 *review*.ipynb
