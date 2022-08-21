@@ -4,7 +4,7 @@
 
 | #| Название проекта              | Описание проекта           | Используемые библиотеки                     |
 |-| -------------------- | --------------------- |---------------------------|
-|1 | [Музыка больших городов](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/01.%20Basic%20Python/yandex_music_project.ru.ipynb) | Сравниваем данные пользователей Яндекс.Музыки по городам и дням недели | pandas |
+|1 | [Музыка больших городов](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/01.%20Basic%20Python/) | Сравниваем данные пользователей Яндекс.Музыки по городам и дням недели | pandas |
 |2 | [Исследование надежности заемщиков](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/02.%20Data%20Preprocessing/credit_scoring_project.ru.ipynb) | Анализируем данные о клиентах банка и определяем долю кредитоспособных | pandas, numpy |
 |3 | [Исследование объявлений о продаже квартир](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/03.%20Research%20Data%20Analysis/sale_apartments_analysis.ru.ipynb) | Исследуем архив объявлений о продаже объектов недвижимости в Санкт-Петербурге и Ленинградской области | pandas, pyplot, numpy |
 |4 | [Определение перспективного тарифа для телеком-компании](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/04.%20Statistical%20data%20analysis/mobile_tariff_analysis.ru.ipynb) |Оптимизируем воронки продаж для ускорения работы отдела маргетинга | pandas, numpy, pyplot, scipy |
